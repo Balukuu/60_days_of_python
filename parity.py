@@ -1,15 +1,15 @@
 def main():
-    x = int(input("whats the valule of x ?"))
+    x =int(input("whats x?"))
+
     if is_even(x):
-        print("Even")
+       print("Even")
     else:
-        print("Odd")    
+       print("Odd")
 
 def is_even(n):
-    if n%2 ==0:
-        return True
-    else:
-        return False          
-    
-
-main() 
+   if n%2 == 0:
+      return True
+   else:
+      return False       
+   
+main()   
