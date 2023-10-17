@@ -7,6 +7,6 @@ def main():
        print("Odd")
 
 def is_evenFUN(n):
-    return True if n%2 ==0 else False  
+    return  n%2 ==0 
    
 main()   
