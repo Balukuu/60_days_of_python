@@ -1,11 +1,10 @@
-name = input("whats your name")
-
+name = input("Whats yourName")
+ 
 match name:
-    case "baluku" | "EDGAR" | "SAM":
-        print("Gryffindor")
-    case "Dev":
-        print("Slytherin")   
-
+    case "Baluku" | "Edgar" | "dev":
+     print("Your a Genuis")
+    case "Eva" | "Rubi":
+     print("Your stupid")
     case _:
-        print("who")
-     
+     print("go")
+ 
