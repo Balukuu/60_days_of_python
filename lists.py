@@ -1,2 +1,4 @@
 students = ["baluku","Edgar","muhindo","Gina"]
-print(students[2])
+
+for student in students:
+    print(student)
