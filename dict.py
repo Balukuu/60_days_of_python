@@ -4,4 +4,5 @@ students = {
     "patricia": "Biira",
 }
 
-print(students["Baluku"])
+for student in students:
+    print(student)
