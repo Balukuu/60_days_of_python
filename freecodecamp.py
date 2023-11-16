@@ -1,3 +1,3 @@
-width = 15
-height = 12.0
-print(height/3)
+inp = input("europe floor")
+usf= int(inp) +1
+print("US floor",usf)
