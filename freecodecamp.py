@@ -1,2 +1,3 @@
-x=1+2**3/4*5
-print(x)
+width = 15
+height = 12.0
+print(height/3)
