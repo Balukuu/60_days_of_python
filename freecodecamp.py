@@ -1,6 +1,8 @@
-x =42
-if x > 3:
-     print("Ohhhh")
-     if x < 55:
-          print ("Yess")
-print ("All done")          
+x = 42
+if x < 2:
+    print("small")
+elif x <10:
+    print ("medium") 
+elif x < 45:
+    print("Large")
+           
