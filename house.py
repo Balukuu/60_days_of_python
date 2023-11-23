@@ -6,5 +6,6 @@ match name:
     case "Eva" | "Rubi":
      print("Your stupid")
     case _:
-     print("go")
+     print("I'm done with biira")
+     
  
